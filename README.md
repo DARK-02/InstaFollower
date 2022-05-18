@@ -1,7 +1,6 @@
 <div align="center">
 
 # ● InstaFollower ●
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARK-02/DarkBotMD)
 </div>
 <div align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="300" />
