@@ -1,6 +1,6 @@
 <div align="center">
 
-# ● Deploy ●
+# ● InstaFollower ●
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARK-02/DarkBotMD)
 </div>
 <div align="center">
